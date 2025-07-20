@@ -259,6 +259,17 @@ abstro -o OUTPUT --preset PRESET [OPTIONS]
   --list-palettes             Show all available color palettes
   --verbose                   Verbose output
 ```
+## 🖼️ Example Images
+
+Here are some examples of what Abstro can generate:
+
+![Example 1](https://raw.githubusercontent.com/sinantan/abstro/refs/heads/main/abstro/examples/chaos.png)
+
+![Example 2](https://raw.githubusercontent.com/sinantan/abstro/refs/heads/main/abstro/examples/oil_abstract.png)
+
+![Example 3](https://raw.githubusercontent.com/sinantan/abstro/refs/heads/main/abstro/examples/oil_impressionist.png)
+
+
 
 ## 🤝 Contributing
 
