@@ -269,7 +269,7 @@ Here are some examples of what Abstro can generate:
 
 ![Example 3](https://raw.githubusercontent.com/sinantan/abstro/refs/heads/main/abstro/examples/oil_impressionist.png)
 
-![Example 4](https://raw.githubusercontent.com/sinantan/abstro/refs/heads/main/abstro/examples/oil_impressionist.png)
+![Example 4](https://raw.githubusercontent.com/sinantan/abstro/refs/heads/main/abstro/examples/line_art.png)
 
 
 
